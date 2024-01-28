@@ -14,4 +14,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Game_customize.unity
     guid: 113d7eec152a83e4da7b737a6fa04362
+  - enabled: 1
+    path: Assets/s2/SampleScene.unity
+    guid: bb7f4c4fe2c90e24499ae47c2287b111
+  - enabled: 1
+    path: Assets/s2/SampleSceneKanaan.unity
+    guid: a302a51d65a58464f974e7b1003123d9
+  - enabled: 1
+    path: Assets/s2/SampleSceneCustom.unity
+    guid: 4c1cb0ba0888a0544bc8d4496e9e43a3
+  - enabled: 1
+    path: Assets/s2/SampleSceneAlberini.unity
+    guid: 29a5ee060a62b45499b35743f1df1262
+  - enabled: 1
+    path: Assets/s2/SampleSceneBoris.unity
+    guid: cb816bb7a36788347a00ae74b1b54882
+  - enabled: 1
+    path: Assets/s2/SampleSceneMahes.unity
+    guid: 40437ab7bb5636945bbbc734e5edb016
+  - enabled: 1
+    path: Assets/s2/SampleSceneMcGill.unity
+    guid: 2c60c3bd234c0f04981e7798ca4cbd30
   m_configObjects: {}

@@ -1928,7 +1928,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1325312238}
         m_TargetAssemblyTypeName: main_menu, Assembly-CSharp
-        m_MethodName: Punch_9prof
+        m_MethodName: Punch_Kanaan
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2075,7 +2075,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1325312238}
         m_TargetAssemblyTypeName: main_menu, Assembly-CSharp
-        m_MethodName: Punch_9prof
+        m_MethodName: Punch_Mahes
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2139,7 +2139,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &399856181
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3166,7 +3166,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1325312238}
         m_TargetAssemblyTypeName: main_menu, Assembly-CSharp
-        m_MethodName: Punch_9prof
+        m_MethodName: Punch_Alberini
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -4623,7 +4623,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1325312238}
         m_TargetAssemblyTypeName: main_menu, Assembly-CSharp
-        m_MethodName: Punch_9prof
+        m_MethodName: Punch_Boris
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -6530,7 +6530,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1325312238}
         m_TargetAssemblyTypeName: main_menu, Assembly-CSharp
-        m_MethodName: Punch_9prof
+        m_MethodName: Punch_McGill
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -6969,7 +6969,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 559712698}
         m_TargetAssemblyTypeName: main_menu, Assembly-CSharp
-        m_MethodName: Punch_cust
+        m_MethodName: Punch_Custom
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
