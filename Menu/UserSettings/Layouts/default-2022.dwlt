@@ -415,7 +415,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: e0f4ffff2ef5fffff0f6ffff2ef7ffff6cf7ffffaaf7ffffe8f7ffff26f8ffff64f8ffffa2f8ffffe0f8ffff2af9ffff2ef9ffff32f9ffff72f9ffff30fbffff
+      m_ExpandedIDs: 22f4ffff6ef4ffff32f6ffff70f6ffffaef6ffffecf6ffff2af7ffff68f7ffffa6f7ffffe4f7ffff22f8ffff6cf8ffff70f8ffff74f8ffffb6f8ffff30fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -819,7 +819,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.0025670638, y: 0.9851297, z: -0.17113373, w: 0.014778084}
     speed: 2
-    m_Value: {x: 0.0025670638, y: 0.9851297, z: -0.17113373, w: 0.014778084}
+    m_Value: {x: 0.0025670738, y: 0.9851335, z: -0.17113438, w: 0.014778141}
   m_Size:
     m_Target: 77.96463
     speed: 2
@@ -908,9 +908,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 65.66669}
-    m_SelectedIDs: ec5c0000
-    m_LastClickedID: 23788
-    m_ExpandedIDs: 00000000ea5c0000ec5c000000ca9a3bffffff7f
+    m_SelectedIDs: f05c0000
+    m_LastClickedID: 23792
+    m_ExpandedIDs: 00000000ee5c0000f05c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -938,7 +938,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ea5c0000ec5c0000
+    m_ExpandedIDs: 00000000ee5c0000f05c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -990,7 +990,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 1.666687}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 57
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
@@ -1069,7 +1069,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 518
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
