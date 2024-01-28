@@ -361,6 +361,7 @@
 "Assets/lineTracking.cs"
 "Assets/main_menu.cs"
 "Assets/prof.cs"
+"Assets/ResetGame.cs"
 "Assets/ScoreCount.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
