@@ -189,8 +189,8 @@ MonoBehaviour:
     y: 0
     width: 235.33333
     height: 316
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -269,8 +269,8 @@ MonoBehaviour:
     y: 0
     width: 266
     height: 579.3333
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -413,9 +413,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 30fbffff
+      m_SelectedIDs: 42b60000
+      m_LastClickedID: 46658
+      m_ExpandedIDs: d0c9ffff96cdfffffccfffff38d2ffff2ed6ffff48d8ffffd6d8ffffacd9ffff1cdaffff64ddffff3adeffff06dfffffd2dfffff92e0ffffe2e3ffff5ee6ffff02e9ffff8eebffff18f9ffff68f9ffffacfaffff3e6000003461000032b5000028b6000042b60000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -903,14 +903,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 57
-  m_LastProjectPath: C:\Users\johnp\Documents\JP\McGill\Winter 2024\New Clone\MCHACKS11\Menu
+  m_LastProjectPath: C:\Users\johnp\Documents\JP\McGill\Winter 2024\McHacks\MCHACKS11\Menu
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: e05c0000
-    m_LastClickedID: 23776
-    m_ExpandedIDs: 00000000de5c0000e05c000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 65.66669}
+    m_SelectedIDs: fa5c0000
+    m_LastClickedID: 23802
+    m_ExpandedIDs: 00000000f85c0000fa5c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -938,7 +938,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000de5c0000e05c0000
+    m_ExpandedIDs: 00000000f85c0000fa5c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -965,7 +965,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000094bb00006c98000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -990,7 +990,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 254}
+    m_ScrollPosition: {x: 0, y: 1.666687}
     m_GridSize: 57
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
@@ -1017,7 +1017,7 @@ MonoBehaviour:
     x: 0
     y: 388.6667
     width: 1013
-    height: 242.33337
+    height: 242.33331
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1069,7 +1069,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 518
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
