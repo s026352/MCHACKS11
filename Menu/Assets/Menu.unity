@@ -2735,7 +2735,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1325312238}
         m_TargetAssemblyTypeName: main_menu, Assembly-CSharp
-        m_MethodName: Punch_9prof
+        m_MethodName: Punch_Vetta
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -5178,7 +5178,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1325312238}
         m_TargetAssemblyTypeName: main_menu, Assembly-CSharp
-        m_MethodName: Punch_9prof
+        m_MethodName: Punch_Campbell
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -5894,7 +5894,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1325312238}
         m_TargetAssemblyTypeName: main_menu, Assembly-CSharp
-        m_MethodName: Punch_9prof
+        m_MethodName: Punch_Erring
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

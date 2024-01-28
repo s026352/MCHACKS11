@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/s2/SampleSceneMcGill.unity
+- path: Assets/s2/SampleSceneCustom.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

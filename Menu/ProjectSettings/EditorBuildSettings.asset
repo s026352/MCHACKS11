@@ -35,4 +35,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/s2/SampleSceneMcGill.unity
     guid: 2c60c3bd234c0f04981e7798ca4cbd30
+  - enabled: 1
+    path: Assets/s2/SampleSceneErrington.unity
+    guid: 737a20e948662e744a99a1c5ebd410ac
+  - enabled: 1
+    path: Assets/s2/SampleSceneVetta.unity
+    guid: 184bc4a073c3ec244b69bae6dce0671a
+  - enabled: 1
+    path: Assets/s2/SampleSceneCampbell.unity
+    guid: 998845ad5d4d440499b71823e7ac9294
   m_configObjects: {}
