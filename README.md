@@ -2,6 +2,7 @@
 
 ## Introduction
 Welcome to Punch My Professors, an exciting Unity app developed for McGill McHacks 11. This repository contains the source code and necessary dependencies to build and run the app.
+[![Punch My Prof](https://www.youtube.com/watch?v=pnxXGGBSUc0)](https://www.youtube.com/watch?v=pnxXGGBSUc0)
 
 ## Contents
 1. **McHacks:** This folder contains essential files and assets required for the McGill McHacks 11 integration.
